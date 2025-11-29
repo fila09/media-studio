@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Media Studio",
+  "description": "A professional tool for audio transcription and video analysis using Google Gemini models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
